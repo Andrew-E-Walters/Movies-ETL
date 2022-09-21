@@ -33,4 +33,4 @@
 ![movies query](https://github.com/Andrew-E-Walters/Movies-ETL/blob/main/Images/Screenshot%202022-09-15%20203814.png)
 
 ### ratings query
-![ratingsquery](https://github.com/Andrew-E-Walters/Movies-ETL/blob/main/Images/ratings_query.png)
+![ratingsquery](https://github.com/Andrew-E-Walters/Movies-ETL/blob/main/Resources/ratings_query.png?raw=true)
