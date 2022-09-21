@@ -42,9 +42,6 @@ The purpose of this challenge was to create an automated pipeline that takes in 
 
 ### Use your knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
-REWIND
-
-
 ### upload
 ![upload](https://github.com/Andrew-E-Walters/Movies-ETL/blob/main/Images/extract_transform_load.png)
 
